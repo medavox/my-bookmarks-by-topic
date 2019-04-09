@@ -1,6 +1,20 @@
 Topic: Internet Decentralisation & Distribackup
 ================================
 
+Backup
+=====
+
+[List of Sync & Backup Programs @ArchWiki](https://wiki.archlinux.org/index.php/Synchronization_and_backup_programs#Chunk-based_increments)
+
+[restic](https://restic.net) "backups done right"
+
+[zbackup](http://zbackup.org)
+
+[Areca Backup](http://www.areca-backup.org/index.php)
+
+[Borg Backup](borgbackup.readthedocs.io/en/stable/)
+
+
 Diff, Distance & Similarity Algorithms
 =========
 
@@ -55,3 +69,38 @@ Finds the optimal sequence alignment between two strings.
 "simply described as a more space efficient version of the Needleman–Wunsch algorithm 
 that uses divide and conquer."
 
+Radio-Based Comms Infrastructure Federation
+============
+
+[How I Built My Own Mobile Cell Tower](https://www.ciena.com/insights/articles/How-I-built-my-own-mobile-cell-tower-prx.html)
+
+[PMR446](https://en.wikipedia.org/wiki/PMR446#PMR446_gateways)
+
+[search: does PMR446 allow sending data transmission](https://duckduckgo.com/?q=does+pmr446+allow+sending+data+transmission&t=ffsb&ia=web)
+
+[forum:packet radio on PMR446](http://www.transmission1.net/viewtopic.php?f=4&t=41951&sid=8c0d097872c4ec9c0e704c5484a4d25b
+
+[List of some license-free radio bands](https://en.wikipedia.org/wiki/Short-range_device)
+
+[markqvist's site](https://unsigned.io) he makes cool stuff for/with LoRa.
+
+
+
+[KISS TNCs](https://en.wikipedia.org/wiki/KISS_(TNC))
+
+
+License-Free Radio Bands
+--------
+
+Citizens band radio
+
+PMR446
+
+LPD433
+
+ISM
+
+Data Radio Protocols
+-----------
+
+APRS over AX.25
